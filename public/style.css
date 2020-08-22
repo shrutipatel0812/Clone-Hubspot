@@ -1,0 +1,130 @@
+body {
+  background-color: #f5f8fa;
+}
+/* ==========navbar =========*/
+.navbar-nav {
+  padding-left: 40%;
+}
+.navbar-light .navbar-nav .nav-link {
+  padding: 10%;
+  color: #1d2124;
+  font-weight: 700;
+}
+/* ===========home=========== */
+
+#home {
+  background-image: url("https://cdn2.hubspot.net/hubfs/53/raw_assets/public/_Web%20Team%20Assets/Website/assets/svg/hero.svg");
+  background-size: cover;
+  background-position: center;
+}
+#home .container {
+  margin: 0px 50px 75px 60px;
+}
+h1 {
+  font-size: 2.875rem;
+  line-height: 1.30435em;
+  font-weight: bolder;
+  color: #33475b;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.61111em;
+}
+
+/* ========home2============== */
+
+.card-titile {
+  color: #3d546b;
+  font-size: 2rem;
+  line-height: 1.3125em;
+  font-weight: 700;
+}
+#home2 h4 {
+  font-weight: 300;
+}
+ul {
+  list-style-type: none;
+}
+
+.card i {
+  padding: 10px;
+  color: #ff7a59;
+}
+
+img {
+  padding-left: 30px;
+  max-width: 100%;
+  max-height: 100%;
+}
+#smbtn {
+  max-width: 50%;
+}
+.btn {
+  text-align: center;
+  border-radius: 0.1875rem;
+  display: inline-block;
+  border: 0;
+  font-weight: 600;
+  background-color: #ff7a59;
+  color: #fff;
+  padding: 0.9em 1.388em 0.6em;
+  font-size: 0.9375rem;
+  width: 100%;
+}
+/* ===========footer=========== */
+.footer li {
+  color: white;
+}
+
+.card {
+  height: 100%;
+}
+
+#spara {
+  padding: 5% 20%;
+}
+
+h2 {
+  font-weight: bold;
+}
+.para h1 {
+  color: white;
+}
+.col-lg-3 {
+  padding: 20px 0px;
+}
+.col-lg-4 {
+  padding: 10px 10px;
+}
+#service {
+  padding: 0 60px;
+  color: white;
+  text-align: center;
+  background: linear-gradient(90deg, #00a4bd 10%, #00bda5 90%);
+}
+
+.container {
+  padding: 50px 0;
+}
+#hr-w {
+  border-top: 1px solid white;
+}
+
+.footer i {
+  padding: 15px;
+}
+.footer li h5 {
+  color: white;
+}
+.footer {
+  background-color: #33475b;
+  color: white;
+}
+.footer li {
+  color: #cbd6e2;
+}
+
+.list-group-flush .list-group-item {
+  border-width: 0 0 0;
+}
